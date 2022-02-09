@@ -1,0 +1,21 @@
+[
+  {
+    "ecommerce-name": "Foodpanda",
+    "ecommerce-url": "https://www.foodpanda.com.bd/",
+    "ecommerce-logo": "https://rebrand.ly/6d04e7",
+    "voucher-code": "TEST20",
+    "voucher-details": "OFF 30%",
+    "valid-till": "Valid till 30 April 2021",
+    "voucher-valid-date": "2022-04-01"
+  },
+  {
+    "ecommerce-name": "Foodpanda",
+    "ecommerce-url": "https://www.foodpanda.com.bd/",
+    "ecommerce-logo": "https://rebrand.ly/6d04e7",
+    "voucher-url": "",
+    "voucher-code": "BKASH20",
+    "voucher-details": "OFF 20%",
+    "valid-till": "Valid till 02 March 2022",
+    "voucher-valid-date": "2022-03-01"
+  }
+]
